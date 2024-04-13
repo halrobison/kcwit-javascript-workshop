@@ -17,9 +17,9 @@ const displayMenu = function (ladydev) {
 };
 
 const placeOrder = function (item) {
-return 'I\'d like a ' + item + ', please!';
+return 'I\'d like to see ' + drinkName;
 };
-const drinkName = 'cocktail';
+const drinkName = 'the cocktail menu!';
 
 let numberOfClicks = 0;
 
